@@ -175,7 +175,6 @@
                     <li>Francais</li>
                 </ul>
             </div>
-            lolilolioezjnofnzie test
             <div class="block">
                 <h3 class="sub-title text-center">Ton Equipe </h3>
                <p><a href="#">Bruins Boston</a> - <a href="#">Sabres Buffalo</a> - <a href="#">Red Wings Détroit</a> - <a href="#">Panthers Floride</a> - <a href="#">Canadiens de Montréal</a> - <a href="#">Sénateurs d'Ottawa</a> - <a href="#">Lightning de Tampa Bay</a> - <a href="#">Maple Leafs de Toronto</a> </p>
@@ -187,68 +186,6 @@
                 <p><a href="#">Ducks d'Anaheim </a>- <a href="#">Flames de Calgary </a>- <a href="#">Oilers d'Edmonton </a>- <a href="#">Kings de Los Angeles </a>- <a href="#">Coyotes de Phoenix </a>- <a href="#">Sharks de San José</a> -<a href="#"> Canucks de Vancouver</a></p>
                 
                 <div class="code-block">
-                    <!--//Use Prismjs - http://prismjs.com/index.html#basic-usage
-                    <pre>
-    <code class="language-css">
-    /*   
-     * Template Name: devAid - Responsive Website Template for developers
-     * Version: 1.0
-     * Author: Xiaoying Riley at 3rd Wave Media
-     * Website: http://themes.3rdwavemedia.com/
-     * Twitter: @3rdwave_themes
-    */
-    body {
-      font-family: 'Lato', arial, sans-serif;
-      color: #444444;
-      font-size: 16px;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-    }
-    </code></pre>
-                </div><!--//code-block
-            </div><!--//block
-            
-            <div class="block">
-                <h3 class="sub-title text-center">JavaScript</h3>
-                <p>Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Lorem ipsum dolor sit amet, consectetuer adipiscing elit ligula eget dolor.</p>
-                <div class="code-block">
-                    <pre><code class="language-javascript">
-    if( awesome ){
-        console.log('This is Awesome');
-    }else{
-        $('body').addClass('give-me-awesome');
-    }
-                    </code></pre>
-                </div><!--//code-block
-            </div><!--//block
-            <div class="block">
-                <h3 class="sub-title text-center">Full Documentation</h3>
-                <p>If your documentation is very long you can host the full docs page (including FAQ etc) on GitHub and provide a Call to Action button below to direct users there.</p>
-                <p class="text-center">
-                    <a class="btn btn-cta-primary" href="https://github.com/twbs/bootstrap" target="_blank">More on GitHub</a>
-                </p>
-            </div><!--//block
-            
-            </div><!--//docs-inner       
-        </div><!--//container-->
-    </section><!--//features-->
-    
-    <!-- ******LICENSE******
-    <section id="langues" class="license section">
-        <div class="container">
-            <div class="license-inner">
-            <h2 class="title text-center">Langues</h2>
-                <div class="info">
-                    <p>Hockey Training manager vous propose plusieurs langue pour le logiciel, afin d'accompagner les entraineurs, peu importe leurs pays d'excercice, leurs langue natale,...</p>
-                </div><!--//info
-                <div class="cta-container">
-                    <div class="speech-bubble">                    
-                        <p class="intro"></div>
-                    </div><!--//speech-bubble
-                </div><!--//cta-container-->
-            </div><!--//license-inner-->
-        </div><!--//container-->
-    </section><!--//how-->
     
     <!-- ******CONTACT****** --> 
     <section id="contact" class="contact section has-pattern">
